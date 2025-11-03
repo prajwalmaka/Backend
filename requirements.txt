@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+python-multipart
+aiofiles
+pypdf
+sentence-transformers
+pinecone-client
+sqlalchemy
+aiosqlite  
+redis
+aioredis
+pydantic
+python-dotenv
